@@ -7,7 +7,7 @@ go
 Эксплорер для проверки контракта и транзакций : https://goerli.explorer.zksync.io/ ;
 Скачаиваем ( если нет ) Visual Studio Code : https://code.visualstudio.com/
 Добваляем в VSC нужные расширения ( Solidity, npm Intellisense ), если по ходу работы в VSC выдает ошибки и всплывает окно в нижнем правом углу с предложением скачать пакеты - соглашаемся ( у всех может быть по-разному ), чего будет не хватать из пакетов ( yarn, node.js и тд ) устанавливаем вручную ( гайдов полно в интернете )
-Добавляем ссылку с этого репозитория в VSC : https://github.com/sevRipen/Greeter
+Добавляем ссылку с этого репозитория в VSC : https://github.com/gptnoob/gptnoob
 Подготавливаем метамаск : добавляем сеть ZkSync Era Testnet через https://chainlist.org/?testnets=true&search=zksync+era+testnet или вручную
 Запрашиваем тестовые Goerli на https://goerlifaucet.com/
 Отправляем Goerli ETH на ZkSync Era Testnet через мост https://portal.zksync.io/bridge (внизу справа проверяем чтобы стояла ZkSync Era Goerli
